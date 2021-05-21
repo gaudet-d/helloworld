@@ -1,1 +1,3 @@
-Just a simple program to say "hello world".
+Hello world!
+
+This is the best repository to grace this profile. 
